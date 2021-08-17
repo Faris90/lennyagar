@@ -25,7 +25,7 @@ app.get("/", (request, response) => {
 
 
 app.get('/live', (req, res) => {
-  res.redirect('https://emupedia.net/emupedia-game-agar.io/');
+  res.redirect('https://lennar.icu');
   //res.sendFile(__dirname + "/views/streaming.html");
 });
 
